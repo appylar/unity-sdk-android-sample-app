@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.AppylarSdkWrapper;
 
-public class AppylarSample: MonoBehaviour, AppylarInitializationListener, AppylarInsterstitialListener, AppylarBannerListener {
+public class AppylarSample: MonoBehaviour, AppylarInitializationListener, AppylarInterstitialListener, AppylarBannerListener {
   private string appKey;
   // Start is called before the first frame update
   void Start() {

@@ -1,0 +1,5 @@
+/Users/gaborkisch/Documents/SDKs/unity-sdk-sample-app/.utmp/RelWithDebInfo/5r713z2x/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/gaborkisch/Documents/SDKs/unity-sdk-sample-app/.utmp/RelWithDebInfo/5r713z2x/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/Users/gaborkisch/Documents/SDKs/unity-sdk-sample-app/.utmp/RelWithDebInfo/5r713z2x/armeabi-v7a/FramePacing/CMakeFiles/swappywrapper.dir
+/Users/gaborkisch/Documents/SDKs/unity-sdk-sample-app/.utmp/RelWithDebInfo/5r713z2x/armeabi-v7a/FramePacing/CMakeFiles/edit_cache.dir
+/Users/gaborkisch/Documents/SDKs/unity-sdk-sample-app/.utmp/RelWithDebInfo/5r713z2x/armeabi-v7a/FramePacing/CMakeFiles/rebuild_cache.dir

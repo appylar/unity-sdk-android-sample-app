@@ -1,0 +1,1 @@
+/Users/gaborkisch/Documents/SDKs/unity-sdk-sample-app/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/5r713z2x/obj/armeabi-v7a
