@@ -12,18 +12,10 @@ public class AppylarSample: MonoBehaviour, AppylarInitializationListener, Appyla
 
   public void Initialize() {
     Appylar.Initialize(
-      GetAppKey(), new AdType[] {
+      "<YOUR_ANDROID_APP_KEY>", new AdType[] {
         AdType.INTERSTITIAL, AdType.BANNER
       }, true, this
     );
-  }
-
-  private string GetAppKey() {
-    if (Application.platform == RuntimePlatform.Android) {
-      return appKey = "<YOUR_ANDROID_APP_KEY>";
-    } else {
-      return appKey = "<YOUR_IOS_APP_KEY>";
-    }
   }
 
   public void Interstitial() {
