@@ -19,7 +19,7 @@ public class AppylarSample: MonoBehaviour, AppylarInitializationListener, Appyla
 
   public void Initialize() {
     Appylar.Initialize(
-      "<YOUR_UNITY_APP_KEY>", new AdType[] {
+      "<YOUR_ANDROID_APP_KEY>", new AdType[] {
         AdType.INTERSTITIAL, AdType.BANNER
       }, true, this
     );
