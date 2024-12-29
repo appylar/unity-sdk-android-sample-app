@@ -3,7 +3,8 @@ guid: 8a695ea6023b14008bc08d1cfcc8a5aa
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - textMeshProUGUI: {fileID: 3510321996691883760, guid: 20011f77fa7464e72944a8ba51d1297b, type: 3}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 

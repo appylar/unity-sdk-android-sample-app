@@ -2,12 +2,16 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.AppylarSdkWrapper;
+using TMPro;
 
 public class AppylarSample: MonoBehaviour, AppylarInitializationListener, AppylarInterstitialListener, AppylarBannerListener {
-  private string appKey;
+
+  public TextMeshProUGUI textMeshProUGUI;
+
   // Start is called before the first frame update
   void Start() {
     Initialize();
+    textMeshProUGUI.text = "GABOR";
   }
 
   public void Initialize() {

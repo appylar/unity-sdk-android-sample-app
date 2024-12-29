@@ -1,0 +1,5 @@
+/Users/gaborkisch/Documents/SDKs/unity-sdk-android-sample-app/.utmp/Debug/4g25546n/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/gaborkisch/Documents/SDKs/unity-sdk-android-sample-app/.utmp/Debug/4g25546n/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/Users/gaborkisch/Documents/SDKs/unity-sdk-android-sample-app/.utmp/Debug/4g25546n/armeabi-v7a/FramePacing/CMakeFiles/swappywrapper.dir
+/Users/gaborkisch/Documents/SDKs/unity-sdk-android-sample-app/.utmp/Debug/4g25546n/armeabi-v7a/FramePacing/CMakeFiles/edit_cache.dir
+/Users/gaborkisch/Documents/SDKs/unity-sdk-android-sample-app/.utmp/Debug/4g25546n/armeabi-v7a/FramePacing/CMakeFiles/rebuild_cache.dir
