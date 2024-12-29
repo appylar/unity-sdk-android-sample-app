@@ -55,7 +55,7 @@ public class AppylarSample: MonoBehaviour, AppylarInitializationListener, Appyla
 
   public void onError(string message) {
     print($"onError : {message}");
-    textMeshProUGUI.text = $"onError : {message}";
+    textMeshProUGUI.text = $"Error : {message}";
   }
 
   public void onNoInterstitial() {
