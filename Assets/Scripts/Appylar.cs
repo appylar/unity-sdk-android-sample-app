@@ -40,7 +40,7 @@ public class AppylarSample: MonoBehaviour, AppylarInitializationListener, Appyla
   #region Interface Implementations
   public void onNoBanner() {
     print("onNoBanner");
-    textMeshProUGUI.text = "No more banners in the buffer,\nplease retry again after a minute.";
+    textMeshProUGUI.text = "No banners in the buffer.";
   }
 
   public void onBannerShown(int height) {
@@ -60,7 +60,7 @@ public class AppylarSample: MonoBehaviour, AppylarInitializationListener, Appyla
 
   public void onNoInterstitial() {
     print("onNoInterstitial ");
-    textMeshProUGUI.text = "No more interstitials in the buffer,\nplease retry again after a minute.";
+    textMeshProUGUI.text = "No interstitials in the buffer.";
   }
 
   public void onInterstitialShown() {
